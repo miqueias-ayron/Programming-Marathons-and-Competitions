@@ -1,1 +1,1 @@
-# Programming-Marathons-and-Competitions
+# Programming Marathons and Competitions
